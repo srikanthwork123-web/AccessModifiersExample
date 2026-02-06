@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AccessModifierExampleMain/AccessModifierExampleMain.csproj" />
+  <Project Path="RepositoryLayer/RepositoryLayer.csproj" />
+</Solution>
