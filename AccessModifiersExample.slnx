@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="AccessModifierExampleMain/AccessModifierExampleMain.csproj" />
-  <Project Path="RepositoryLayer/RepositoryLayer.csproj" />
+  <Project Path="AccessModifierExampleMain/AccessModifierExampleMain.csproj" Id="b79347ad-641a-42e9-80d0-ad97dee1ebc4" />
+  <Project Path="RepositoryLayer/RepositoryLayer.csproj" Id="5cb4d746-5bbb-4a14-b21d-c63ef255c8de" />
 </Solution>
