@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 namespace RepositoryLayer
 {
     //if you create any new class by default accessmodifier class is internal.
+    /*
+If you create any class what is the default accessmodifier?=>Internal
+if you create any variables or methods inside class, what is the default accessmodfier=>private
+Note:
+1.Same Assembly or same project   both are same.
+2.Other Assembly or other projet  both are same.
+     */
     internal class sipdashboard: Class1
     {
         internal string internal_collegename = "JNTU";
