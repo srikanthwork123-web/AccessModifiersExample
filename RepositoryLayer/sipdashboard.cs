@@ -39,5 +39,5 @@ Note:
  * 
  * 
  * when you build the class library project it will generte dll flile.
- * this file you can add to other projects and you ca access those classes.
+ * this file you can add to other projects and you can access those classes.
  */
